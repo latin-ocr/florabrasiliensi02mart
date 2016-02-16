@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florabrasiliensi02mart_0008.png"; bbox 0 0 2100 3882; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 37 124 1992 563">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 37 124 1992 563">
+     <span class='ocr_line' id='line_1_1' title="bbox 407 124 1618 237; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 407 124 1618 237; x_wconf 84' lang='lat' dir='ltr'>AGROSTOLOGIA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 37 420 1992 563; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 37 420 1992 563; x_wconf 79' lang='lat' dir='ltr'>BRASILIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 267 978 1779 1074">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 267 978 1779 1074">
+     <span class='ocr_line' id='line_1_3' title="bbox 267 978 1779 1074; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 267 979 1006 1074; x_wconf 85' lang='lat' dir='ltr'>DESCRIPTIO</span> <span class='ocrx_word' id='word_1_4' title='bbox 1077 978 1779 1072; x_wconf 81' lang='lat' dir='ltr'>GRAMINUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 156 1250 1864 1481">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 156 1250 1864 1481">
+     <span class='ocr_line' id='line_1_4' title="bbox 156 1250 1864 1335; baseline -0.004 -17"><span class='ocrx_word' id='word_1_5' title='bbox 156 1260 242 1318; x_wconf 88' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_6' title='bbox 321 1256 648 1316; x_wconf 87' lang='lat' dir='ltr'>IMPERIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 745 1250 1248 1312; x_wconf 86' lang='lat' dir='ltr'>BRASILIENSI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1344 1253 1503 1311; x_wconf 88' lang='lat' dir='ltr'>HUC</span> <span class='ocrx_word' id='word_1_9' title='bbox 1600 1254 1864 1335; x_wconf 82' lang='lat' dir='ltr'>USQUE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 712 1412 1302 1481; baseline -0.008 -7"><span class='ocrx_word' id='word_1_10' title='bbox 712 1412 1266 1474; x_wconf 86' lang='lat' dir='ltr'>DETECTORUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1285 1454 1302 1481; x_wconf 84' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 876 1664 1152 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 876 1664 1152 1702">
+     <span class='ocr_line' id='line_1_6' title="bbox 876 1664 1152 1702; baseline -0.014 0"><span class='ocrx_word' id='word_1_12' title='bbox 876 1664 1152 1702; x_wconf 81' lang='lat' dir='ltr'><strong>AAAAAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 247 1874 1659 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 247 1874 1659 1948">
+     <span class='ocr_line' id='line_1_7' title="bbox 247 1874 1659 1948; baseline -0.008 -1"><span class='ocrx_word' id='word_1_13' title='bbox 247 1946 250 1947; x_wconf 10' lang='grc' dir='ltr'><em>γ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 362 1882 439 1948; x_wconf 78' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_15' title='bbox 510 1880 592 1947; x_wconf 87' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_16' title='bbox 652 1877 987 1943; x_wconf 80' lang='lat' dir='ltr'>NEESIO</span> <span class='ocrx_word' id='word_1_17' title='bbox 1045 1899 1116 1938; x_wconf 78' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_18' title='bbox 1176 1874 1659 1938; x_wconf 61' lang='lat' dir='ltr'><em>ESENBECK</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 90 2048 1820 2105">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 90 2048 1820 2105">
+     <span class='ocr_line' id='line_1_8' title="bbox 90 2048 1820 2105; baseline -0.003 -5"><span class='ocrx_word' id='word_1_19' title='bbox 90 2095 97 2100; x_wconf 81' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 237 2056 369 2104; x_wconf 85' lang='lat' dir='ltr'><strong>Prof.</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 404 2060 553 2103; x_wconf 88' lang='lat' dir='ltr'><strong>Bonn.</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 593 2055 737 2102; x_wconf 81' lang='lat' dir='ltr'><strong>Acad.</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 780 2056 831 2101; x_wconf 92' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_24' title='bbox 869 2054 921 2097; x_wconf 93' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_25' title='bbox 965 2052 1018 2096; x_wconf 85' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_26' title='bbox 1055 2051 1112 2096; x_wconf 80' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_27' title='bbox 1152 2050 1205 2094; x_wconf 87' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_28' title='bbox 1242 2050 1490 2105; x_wconf 80' lang='lat' dir='ltr'>Praeside,</span> <span class='ocrx_word' id='word_1_29' title='bbox 1540 2048 1658 2097; x_wconf 86' lang='lat' dir='ltr'><strong>Ord.</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 1708 2051 1820 2095; x_wconf 84' lang='lat' dir='ltr'><strong>Bor.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 656 2174 1373 2237">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 656 2174 1373 2237">
+     <span class='ocr_line' id='line_1_9' title="bbox 656 2174 1373 2237; baseline -0.001 -16"><span class='ocrx_word' id='word_1_31' title='bbox 656 2178 781 2237; x_wconf 80' lang='lat' dir='ltr'>Aqu.</span> <span class='ocrx_word' id='word_1_32' title='bbox 847 2175 994 2219; x_wconf 84' lang='lat' dir='ltr'><strong>Rubr.</strong></span> <span class='ocrx_word' id='word_1_33' title='bbox 1052 2174 1221 2234; x_wconf 86' lang='lat' dir='ltr'>Equite</span> <span class='ocrx_word' id='word_1_34' title='bbox 1286 2175 1373 2220; x_wconf 89' lang='lat' dir='ltr'><strong>rel.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 276 3286 1735 3441">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 276 3286 1735 3441">
+     <span class='ocr_line' id='line_1_10' title="bbox 461 3286 1553 3343; baseline -0.007 -3"><span class='ocrx_word' id='word_1_35' title='bbox 461 3289 1011 3341; x_wconf 82' lang='lat' dir='ltr'>STUTTGARTIAE</span> <span class='ocrx_word' id='word_1_36' title='bbox 1060 3306 1128 3336; x_wconf 82' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_37' title='bbox 1168 3286 1553 3343; x_wconf 83' lang='lat' dir='ltr'>TUBINGAE‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 276 3386 1735 3441; baseline -0.011 -1"><span class='ocrx_word' id='word_1_38' title='bbox 276 3392 936 3441; x_wconf 88' lang='lat' dir='ltr'>SUMPTIBUS</span> <span class='ocrx_word' id='word_1_39' title='bbox 1012 3393 1052 3436; x_wconf 77' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_40' title='bbox 1128 3392 1184 3434; x_wconf 90' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_41' title='bbox 1261 3386 1735 3433; x_wconf 85' lang='lat' dir='ltr'>COTTAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 878 3490 1130 3541">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 878 3490 1130 3541">
+     <span class='ocr_line' id='line_1_12' title="bbox 878 3490 1130 3541; baseline -0.008 0"><span class='ocrx_word' id='word_1_42' title='bbox 878 3490 1130 3541; x_wconf 80' lang='lat'>1829.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
